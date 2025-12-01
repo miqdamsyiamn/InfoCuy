@@ -3,8 +3,8 @@
 > **Temukan, Bagikan, dan Kelola Lokasi Favoritmu di Bandung!**
 > Aplikasi peta interaktif berbasis web yang memudahkan pengguna untuk memetakan dan menemukan lokasi-lokasi penting secara real-time.
 
-![InfoCuy Banner](https://via.placeholder.com/1200x400.png?text=InfoCuy+Preview+Map)
-*(Ganti link gambar di atas dengan screenshot aplikasi asli Anda agar lebih menarik!)*
+![Uploading image.png…]()
+
 
 ---
 
