@@ -3,7 +3,8 @@
 > **Temukan, Bagikan, dan Kelola Lokasi Favoritmu di Bandung!**
 > Aplikasi peta interaktif berbasis web yang memudahkan pengguna untuk memetakan dan menemukan lokasi-lokasi penting secara real-time.
 
-![Uploading image.png…]()
+<img width="1917" height="941" alt="image" src="https://github.com/user-attachments/assets/9478dd28-8615-4900-b717-7a3884c38923" />
+
 
 
 ---
